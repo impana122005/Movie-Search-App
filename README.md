@@ -4,4 +4,4 @@ A simple movie search application using the OMDb API.
 
 ## Screenshot
 
-![Movie Search App](screenshots/movie-search-app.png)
+![Movie Search App](screenshot.png)
